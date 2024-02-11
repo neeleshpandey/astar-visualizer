@@ -3,7 +3,7 @@
 ##### This Python code implements the A* Pathfinding Algorithm using the Pygame library for visualization. The program creates a grid representing a maze-like environment, where the user can set a starting point, an end point, and obstacles. The A* algorithm then finds the shortest path from the start to the end point, considering the specified obstacles. The visualization allows users to interactively create and modify the maze, and the algorithm's progress is displayed in real-time on the Pygame window. The colors represent different states of the grid cells, such as open, closed, barriers, and the final path. The program runs until the user closes the Pygame window or quits the application.
 
 ## Preview
-![aStar-Preview]()
+![aStar-Preview](https://github.com/neeleshpandey/astar-visualizer/assets/87470414/255222de-e6fb-4d71-b912-0144ed93e1b3)
 
 
 
